@@ -19,4 +19,7 @@ Features of the app
 
 -Select a photo from the photo album or take a photo with the camera
 -Tag the picture with a category, brand, and/or model
--
+-View your collection of photos and tags
+-Search through your collection for the specific tag
+-Authenicate using your Facebook account
+-Slide out menu
